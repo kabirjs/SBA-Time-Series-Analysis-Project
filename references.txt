@@ -1,0 +1,8 @@
+https://www.statology.org/ljung-box-test/
+https://tsanggeorge.medium.com/a-semi-auto-way-to-determine-parameters-for-sarima-model-74cdee853080
+https://www.statology.org/what-is-a-good-aic-value/
+https://online.stat.psu.edu/stat510/lesson/11/11.1
+https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/
+https://online.stat.psu.edu/stat510/lesson/8/8.2
+https://www.bts.gov/newsroom/us-scheduled-service-airline-january-2022-passengers-increased-33-2021-decreased-34-pre
+https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/ts.plot
